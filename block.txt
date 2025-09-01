@@ -1,0 +1,4 @@
+(\.|^)youtube\.com$
+(\.|^)youtube-nocookie\.com$
+(\.|^)ytimg\.com$
+(\.|^)googlevideo\.com$
