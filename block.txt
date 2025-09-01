@@ -9,3 +9,8 @@ i.ytimg.com
 s.ytimg.com
 ytimg.l.google.com
 googlevideo.com
+(\.|^)youtube\.com$
+(\.|^)youtube-nocookie\.com$
+(\.|^)ytimg\.com$
+(\.|^)googlevideo\.com$
+youtu.be
