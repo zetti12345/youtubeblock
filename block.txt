@@ -1,4 +1,11 @@
-(\.|^)youtube\.com$
-(\.|^)youtube-nocookie\.com$
-(\.|^)ytimg\.com$
-(\.|^)googlevideo\.com$
+youtube.com
+www.youtube.com
+m.youtube.com
+youtubei.googleapis.com
+youtube.googleapis.com
+youtube-nocookie.com
+ytimg.com
+i.ytimg.com
+s.ytimg.com
+ytimg.l.google.com
+googlevideo.com
